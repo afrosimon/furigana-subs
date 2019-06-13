@@ -19,7 +19,7 @@ class Word(object):
 
         features = node.feature.split(',')
 
-        # unreliable number of commas because fuck you that's why
+        # unreliable number of commas
         if len(features) > 7:
             self.furigana = features[7]
         else:
