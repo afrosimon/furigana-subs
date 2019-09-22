@@ -8,4 +8,4 @@ natto-py==0.9.0
 pycparser==2.19
 regex==2018.8.29
 uWSGI==2.0.17.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
